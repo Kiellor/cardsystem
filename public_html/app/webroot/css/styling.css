@@ -1,0 +1,144 @@
+*  {
+  font-size: 1em;
+  font-family: 'Tinos', serif;
+}
+
+a:link  {
+color: #800000;
+text-decoration: none;
+}
+
+a:visited  {
+color: #554400;
+text-decoration: none;
+}
+
+a:hover  {
+color: red;
+text-decoration: none;
+}
+
+img {
+border: 0;
+}
+
+p  {
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+h1  {
+font-family: 'Milonga', cursive;
+font-size: 2em;
+}
+
+h2  {
+font-family: 'Milonga', cursive;
+font-size: 1.5em;
+}
+
+h3 {
+font-family: 'Milonga', cursive;
+font-size: 1.25em;
+text-decoration:underline;
+margin-bottom:0;
+color:maroon;
+}
+
+h4  {
+font-family: 'Milonga', cursive;
+font-size: 1em;
+margin-bottom:0;
+color:maroon;
+}
+
+table  {
+empty-cells: show;
+}
+
+input, textarea, button  {
+font-size: 0.75em;
+}
+
+hr, div.item-separator {
+border: 2px inset #A30
+}
+
+dt  {
+font-style: italic;
+font-weight: bold;
+}
+  
+sup {
+vertical-align: top;
+}
+
+header {margin:0;border:0;padding:0;text-align:center;color:white}
+header img {max-width:100%;height:auto}
+footer {margin:0;border:0;padding:2em 0 2em 0;text-align:center;color:white}
+nav {border:0;padding:0.5em 0 0.5em 0;margin:0;color:white}
+nav a, nav a:visited, nav a:hover, nav a:active {color: #fdbc5f !important;text-decoration:underline !important}
+nav p {padding: 0 1em 0 1em}
+
+footer table {color:white !important;width:100%;border-top:1px dashed white;}
+  
+#sidebarcontent h3  {
+font-weight: normal;
+text-align: center;
+}
+
+#sidebarcontent a  {
+text-decoration: none;
+}
+
+#sidebarcontent a:hover  {
+text-decoration: none;
+}
+
+#sidebarcontent .inputbox  {
+width: 125px;
+font-size: 1em;
+color: #ffffcc;  
+background-color: black;
+border: 2px inset #aa3300;
+}
+
+#sidebarcontent ul  {
+margin-top: 0;
+}
+
+#CardOptions {
+background-color: AntiqueWhite;
+border: 2px solid black;
+width: 15%;
+min-width: 300px;
+}
+
+#dates {
+padding-bottom: 1em;
+}
+
+#dates h4 {
+margin: 0;
+}
+
+#buildhistory td, #buildhistory th {
+padding-left:0.75em;
+padding-right:0.75em;
+text-align:center  !important;
+}
+
+form .required {
+font-weight: bold;
+}
+
+form .required label:after {
+color: #e32;
+content: '*';
+display:inline;
+}
+
+.slice text {
+	font-size: 16pt;
+	font-family: 'Milonga', cursive;
+}
